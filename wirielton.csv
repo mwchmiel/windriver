@@ -1,0 +1,28 @@
+code,BLFamilyLatin,Scientific,English,ForStrat.ground,ForStrat.understory,ForStrat.midhigh,ForStrat.canopy,ForStrat.aerial
+AMRO,Turdidae,Turdus migratorius,American Robin,20,40,40,0,0
+BHGR,Cardinalidae,Pheucticus melanocephalus,Black-headed Grosbeak,10,0,40,50,0
+BTYW,Parulidae,Dendroica nigrescens,Black-throated Grey Warbler,0,100,0,0,0
+CAJA,Corvidae,Perisoreus canadensis,Canada Jay,60,20,20,0,0
+CBCH,Paridae,Parus rufescens,Chestnut-backed Chickadee,0,30,40,30,0
+CEDW,Bombycillidae,Bombycilla cedrorum,Cedar Waxwing,0,40,40,0,20
+CHSP,Emberizidae,Spizella passerina,Chipping Sparrow,80,10,10,0,0
+DEJU,Emberizidae,Junco hyemalis,Dark-eyed Junco,60,10,30,0,0
+DUFL,Tyrannidae,Empidonax oberholseri,American Dusky Flycatcher,20,80,0,0,0
+HAFL,Tyrannidae,Empidonax hammondii,Hammond's Flycatcher,33,33,33,0,0
+HAWO,Picidae,Picoides villosus,Hairy Woodpecker,20,30,50,0,0
+HETH,Turdidae,Catharus guttatus,Hermit Thrush,50,50,0,0,0
+HEWA,Parulidae,Dendroica occidentalis,Hermit Warbler,0,0,20,80,0
+LAZB,Emberizidae,Passerina amoena,Lazuli Bunting,50,50,0,0,0
+MGWA,Parulidae,Oporornis tolmiei,MacGillivray's Warbler,50,50,0,0,0
+NOFL,Picidae,Colaptes auratus,Northern Flicker,100,0,0,0,0
+PAWR,Troglodytidae,Troglodytes troglodytes,Pacific Wren,50,50,0,0,0
+PSFL,Tyrannidae,Empidonax difficilis,Pacific-slope Flycatcher,0,30,70,0,0
+RBSA,Picidae,Sphyrapicus ruber,Red-breasted Sapsucker,0,0,20,80,0
+RUHU,Trochilidae,Selasphorus rufus,Rufous Hummingbird,0,60,40,0,0
+SOSP,Emberizidae,Melospiza melodia,Song Sparrow,70,30,0,0,0
+SPTO,Emberizidae,Pipilo maculatus,Spotted Towhee,70,30,0,0,0
+STJA,Corvidae,Cyanocitta stelleri,Steller's Jay,40,20,20,20,0
+SWTH,Turdidae,Catharus ustulatus,Swainson's Thrush,50,50,0,0,0
+WCSP,Emberizidae,Zonotrichia leucophrys,White-crowned Sparrow,80,10,10,0,0
+WETA,Cardinalidae,Piranga ludoviciana,Western Tanager,0,0,30,40,30
+WIWA,Parulidae,Wilsonia pusilla,Wilson's Warbler,0,20,80,0,0
